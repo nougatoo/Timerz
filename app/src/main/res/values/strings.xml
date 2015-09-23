@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Timerz</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_timer">Create Timer</string>
+    <string name="title_activity_creater_timer">CreaterTimerActivity</string>
+    <string name="title_activity_timer">TimerActivity</string>
+</resources>
